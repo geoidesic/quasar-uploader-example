@@ -1,1 +1,3 @@
-# quasar-uploader-example
+# Quasar App
+
+> WIP
